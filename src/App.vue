@@ -220,7 +220,7 @@ export default {
       trending: [
         { top: '世界のトピック', title: '中国台湾に侵攻する？', bottom: 'World war third' },
         { top: 'スポーツ', title: '大谷選手', bottom: '135Kツイート' },
-        { top: '音楽', title: 'Blue Ivy', bottom: '40k ツイート' },
+        { top: '音楽', title: 'YOASOBI', bottom: '40k ツイート' },
         { top: '日本のトレンド', title: 'コロナで＼(^o^)／ｵﾜﾀ', bottom: '40k ツイート' },
         { top: '経済', title: '国のシャッキンガ―Z', bottom: '25.4k ツイート' },
       ],
