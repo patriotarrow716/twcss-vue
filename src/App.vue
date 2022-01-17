@@ -218,11 +218,11 @@ export default {
       id: 'home',
       dropdown: false,
       trending: [
-        { top: '世界のトピック', title: '中国台湾に侵攻する？', bottom: 'World war third' },
-        { top: 'スポーツ', title: '大谷選手', bottom: '135Kツイート' },
+        { top: '世界のトピック', title: 'トンガ 再び「大規模噴火」観測', bottom: 'World war third' },
+        { top: 'スポーツ', title: 'ジョコビッチ国外退去の衝撃', bottom: '135Kツイート' },
         { top: '音楽', title: 'YOASOBI', bottom: '40k ツイート' },
-        { top: '日本のトレンド', title: 'コロナで＼(^o^)／ｵﾜﾀ', bottom: '40k ツイート' },
-        { top: '経済', title: '国のシャッキンガ―Z', bottom: '25.4k ツイート' },
+        { top: '日本のトレンド', title: 'ミクロン', bottom: '40k ツイート' },
+        { top: '経済', title: 'セブン―イレブン・ジャパン セルフレジ', bottom: '25.4k ツイート' },
       ],
       friends: [
         { src: 'man.jpg', name: 'male', handle: '@male' },
