@@ -230,10 +230,10 @@ export default {
         { src: 'bmw.jpg', name: 'bmwJapan', handle: '@bmw.jp' }
       ],
       following: [
-        { src: 'man.jpg', name: 'male', handle: '@male', time: '20 min', tweet: 'UE4 パッケージ化設定のポイントを押さえる感じの初心者向けの解説記事と動画を作ってみました', comments: '20', retweets: '55', like: '60' },
+        { src: 'man.jpg', name: 'male', handle: '@male', time: '20 min', tweet: 'UE4 Unreal Engine HMI デザイン チャレンジに参加しましす', comments: '20', retweets: '55', like: '60' },
         { src: 'woman.jpg', name: 'woman', handle: '@woman', time: '55 min', tweet: 'UE4.25以上をお使いの方は、もうマテリアルでStatic Switchを自由に使えるかもしれません。', comments: '50', retweets: '50', like: '93' },
         { src: 'man.jpg', name: 'male', handle: '@male', time: '1.4 hr', tweet: 'エピックゲームズのVirtual Production Partnersとして、ソニーPCLの社名が日本企業初で掲載されました。', comments: '156', retweets: '200', like: '103' },
-        { src: 'man.jpg', name: 'male', handle: '@male', time: '1.4 hr', tweet: '眠い', comments: '10', retweets: '10', like: '50' }
+        { src: 'man.jpg', name: 'male', handle: '@male', time: '1.4 hr', tweet: '新規サイト制作致しました', comments: '10', retweets: '10', like: '50' }
       ],
       tweets: [
         { content: 'It is so nice outside!' }
